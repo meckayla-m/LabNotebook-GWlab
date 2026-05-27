@@ -1,16 +1,71 @@
-# [Date]
-- at the start of every work day, write down THREE things you want to accomplish
-	- these should be small, achievable goals
-- these tasks should be pulled from [[Priorities]]
+# [05/18/2026]
+
+- Read RFTM protocol
 
 ## Daily To Do List
-- [ ] [enter task item here] (we suggest 3 per day)
-	- can add notes as you do tasks. but most detail should be in project specific notes
-- [ ] [task2]
-- [ ] [task3]
 
-*Example:*
-- [ ] *Weigh 10 oyster shells*
-- [ ] *Autoclave glassware*
-- [ ] *Score 3 coralnet photos*
+- [x]  Feed oyster
+- [x]  lab meeting
+- [x]  RFTM protocol
+- [x]  Teach Ava oyster husbandry
+# [05/21/2026]
+
+- RNA Latering
+	- sterilize station and gloves with bleach
+	- take tray
+	- takes little 2ml tubes
+	- open and leave cap on tray (facing up)
+	- take tray with tubes and put on top to UV sterilize for 3min
+	- shut UV off then open back the hood
+	- sterilize gloves with BLEACH!!!!!
+	- once sterilized take down carefully
+	- use the 1000 uq pipette
+	- pipette 1000 uq into tubes
+	- press to first stop then collect
+	- go slowly so no bubble
+	- once finished cover all tubes then take out
+
+## Daily To Do List
+
+- [x]  Feed Oyster
+- [x]  Do RFTM Processing 
+- [x]  Learn RNA latering
+
+# [05/22/2026]
+
+- Oyster Tank Cleaning
+
+## Daily To Do List
+
+- [x] Oyster husbandry
+- [x] Clean Tank
+- [x] Read Papers
+
+
+# [05/26/2026]
+
+- [x] Meeting with Jade
+- [x] Read some papers
+- [x] Try to sync the obsidian and github
+
+
+## Daily To Do List
+
+- [x] Update Mentoring agreement
+- [x] Prepare for meeting with Jade
+- [x] Sync up github and obsidian
+
+
+# [05/27/2026]
+
+- Fill up RNA later tubes
+- Try to set up camera
+
+
+## Daily To Do List
+
+- [x] Fill up RNA later tubes
+- [x] Feed Oysters
+- [x] Find camera height
+
 

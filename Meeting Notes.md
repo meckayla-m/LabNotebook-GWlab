@@ -1,4 +1,4 @@
-# [Date]
-- record notes during meetings with your mentor 
-- DETAILED notes, tasks, etc 
-- should always add tasks discussed to [[Priorities]] list
+# [05/26/2026]
+
+- Update mentoring agreement
+- Friday: 12-2; Shell pictures
