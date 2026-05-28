@@ -69,3 +69,17 @@
 - [x] Find camera height
 
 
+# [05/28/2026]
+
+- Set up ImageJ
+- Try to fill more RNA later tubes
+
+
+## Daily To Do List
+
+- [x] Fill in RNA later tubes
+	- [x] at least 50 of 800 uq tubes
+- [x] Set up ImageJ and get comfortable with it
+- [x] Feed Oyster
+
+
