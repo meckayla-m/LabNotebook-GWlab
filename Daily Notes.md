@@ -81,4 +81,4 @@
 
 - [x] Feed Oyster
 - [x] Download shell photos
-- [ ] Try to get shell measurement macros
+- [x] Try to get shell measurement macros
