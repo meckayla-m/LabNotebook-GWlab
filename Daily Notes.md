@@ -10,20 +10,7 @@
 - [x]  Teach Ava oyster husbandry
 # [05/21/2026]
 
-- RNA Latering
-	- sterilize station and gloves with bleach
-	- take tray
-	- takes little 2ml tubes
-	- open and leave cap on tray (facing up)
-	- take tray with tubes and put on top to UV sterilize for 3min
-	- shut UV off then open back the hood
-	- sterilize gloves with BLEACH!!!!!
-	- once sterilized take down carefully
-	- use the 1000 uq pipette
-	- pipette 1000 uq into tubes
-	- press to first stop then collect
-	- go slowly so no bubble
-	- once finished cover all tubes then take out
+- Make some RNA later tubes
 
 ## Daily To Do List
 
@@ -83,3 +70,15 @@
 - [x] Feed Oyster
 
 
+# [06/01/2026]
+
+- Download Shell Photos
+	- upload to Google Drive
+- Try to use macro to get csv file of shell measurement
+
+
+## Daily To Do List
+
+- [x] Feed Oyster
+- [x] Download shell photos
+- [ ] Try to get shell measurement macros
