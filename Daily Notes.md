@@ -82,3 +82,21 @@
 - [x] Feed Oyster
 - [x] Download shell photos
 - [x] Try to get shell measurement macros
+
+
+# [06/02/2026]
+
+- Redo the oyster shell photos 
+	- 10-15 new ones
+- Feed the oysters
+- Do the NSW1 shell photos to find boring sponge
+	- write shell # and area amount
+	- check Left to Right
+
+
+## Daily To Do List
+
+- [ ] Redo shell photos
+	- [ ] 10-15 new ones
+- [x] Feed oysters
+- [ ] DO NSW1 shell photos to find boring sponge
