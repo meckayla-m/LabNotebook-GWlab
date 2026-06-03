@@ -96,7 +96,21 @@
 
 ## Daily To Do List
 
-- [ ] Redo shell photos
-	- [ ] 10-15 new ones
+- [x] Redo shell photos
+	- [x] 10-15 new ones
 - [x] Feed oysters
-- [ ] DO NSW1 shell photos to find boring sponge
+- [x] DO NSW1 shell photos to find boring sponge
+
+
+# [06/03/2026]
+
+- Feed oysters
+- Do the shell photo macros
+- Have all the measurement files
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Do shell photo macros
+- [x] Write down boring sponge data
