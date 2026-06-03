@@ -16,3 +16,25 @@
 - Fill in a box of RNA later tubes
 - DO the NSW1 August shells
 	- Get the number and area of the shell
+
+
+# [06/05/2026]
+
+- Took 15 new shell photos
+- Started the macros for the new shell pictures
+- Did the NSW1 August shells
+	- number and area of shell written down
+
+
+## To-Do This Week
+
+- Take remaining 15 shell photos 
+- Fill in a box of RNA later tubes 
+- Start the macros for the shell pictures
+
+
+## Questions
+
+- Ask Jade to go over the macro process (troubleshooting)
+- Ask more about fieldwork gear
+- 
