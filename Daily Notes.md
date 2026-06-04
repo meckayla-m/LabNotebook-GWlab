@@ -114,3 +114,21 @@
 - [x] Feed oysters
 - [x] Do shell photo macros
 - [x] Write down boring sponge data
+
+
+# [06/04/2026]
+
+- Feed oysters
+- Do shell photos
+	- 15
+- Do shell photo macros
+
+
+## Daily To Do List
+
+- [x] Feed oysters 
+- [x] Do Shell photos
+- [x] Do shell photo macros
+- [ ] Fill in box of RNA later tubes
+
+
