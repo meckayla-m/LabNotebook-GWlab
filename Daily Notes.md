@@ -128,7 +128,10 @@
 
 - [x] Feed oysters 
 - [x] Do Shell photos
-- [x] Do shell photo macros
-- [ ] Fill in box of RNA later tubes
+- [x] STart shell photo macros
 
 
+# [06/05/2026]
+
+- Fill in RNA later box
+- 
