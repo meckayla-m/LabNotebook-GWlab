@@ -35,6 +35,6 @@
 
 ## Questions
 
-- Ask Jade to go over the macro process (troubleshooting)
+- Ask Jade about job stuff
 - Ask more about fieldwork gear
 - Ask about carpooling and about packing supplies

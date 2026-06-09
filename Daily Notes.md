@@ -128,10 +128,18 @@
 
 - [x] Feed oysters 
 - [x] Do Shell photos
-- [x] STart shell photo macros
+- [x] Start shell photo macros
 
 
 # [06/05/2026]
 
 - Fill in RNA later box
-- 
+- Finish shell macros
+- Redo other shell macros
+
+
+## Daily To Do List
+
+- [x] Fill in RNA later box
+- [x] Finish shell macros
+- [x] Feed oysters
