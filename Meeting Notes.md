@@ -28,9 +28,9 @@
 
 ## To-Do This Week
 
-- Redo 1-15 shell macros 
+- Do some labeling for fieldwork
 - Fill in a box of RNA later tubes 
-- 
+- Do boring sponge NSW2
 
 
 ## Questions
