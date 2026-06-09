@@ -143,3 +143,16 @@
 - [x] Fill in RNA later box
 - [x] Finish shell macros
 - [x] Feed oysters
+
+
+# [06/09/2026]
+
+- Finish shell macros
+- Do some RNA later tubes
+- Feed oysters 
+
+
+## Daily To Do List
+
+- [ ] Finish shell macros
+- [ ] 

@@ -28,9 +28,9 @@
 
 ## To-Do This Week
 
-- Take remaining 15 shell photos 
+- Redo 1-15 shell macros 
 - Fill in a box of RNA later tubes 
-- Start the macros for the shell pictures
+- 
 
 
 ## Questions
