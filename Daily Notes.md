@@ -147,12 +147,18 @@
 
 # [06/09/2026]
 
-- Finish shell macros
+- Do boring sponge NSW2
 - Do some RNA later tubes
-- Feed oysters 
+- Do some labelling for fieldwork
 
 
 ## Daily To Do List
 
-- [ ] Finish shell macros
-- [ ] 
+- [x] Do some boring sponge NSW2
+- [x] Label one box for fieldwork
+- [x] Look over packing for fieldwork and get started
+
+
+# [06/10/2026]
+
+- 
