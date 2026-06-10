@@ -38,3 +38,19 @@
 - Ask Jade about job stuff
 - Ask more about fieldwork gear
 - Ask about carpooling and about packing supplies
+
+
+# [06/16/2026]
+
+- Did NSW2 boring sponge 
+- Labeled tubes for fieldwork
+- Cleaned oyster tanks and changed water
+
+
+## To-Do this Week
+
+- 
+
+
+## Questions
+

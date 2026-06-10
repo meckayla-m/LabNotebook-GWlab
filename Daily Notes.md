@@ -161,4 +161,14 @@
 
 # [06/10/2026]
 
-- 
+- Label boxes of RNA later tubes
+- Do boring sponge NSW2
+
+
+## Daily To Do List
+
+- [x] Label a few boxes of RNA Later tubes
+- [x] Feed Oysters
+- [x] Do Boring sponge NSW2
+
+
