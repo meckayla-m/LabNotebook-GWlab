@@ -172,3 +172,30 @@
 - [x] Do Boring sponge NSW2
 
 
+# [06/11/2026]
+
+- Finish labelling rest of the RNA later tube boxes for fieldwork
+- Finish up boring sponge: NSW2
+- Finish packing for fieldwork
+
+
+## Daily To Do List
+
+- [x] Finish last three boxes of RNA later tubes
+- [x] Finish boring sponge macro: NSW2
+- [x] Finish packing shell picture fieldwork stuff
+- [x] Learn how to do water filtering for fieldwork
+
+
+# [06/12/2026]
+
+- Clean oyster tanks
+- Feed oysters
+- Take tank water chemistry
+
+
+## Daily To Do List
+
+- [ ] Feed oysters
+- [x] Take water chem for tank
+- [ ] Clean oyster tanks
