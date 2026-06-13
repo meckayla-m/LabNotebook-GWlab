@@ -196,6 +196,6 @@
 
 ## Daily To Do List
 
-- [ ] Feed oysters
+- [x] Feed oysters
 - [x] Take water chem for tank
-- [ ] Clean oyster tanks
+- [x] Clean oyster tanks

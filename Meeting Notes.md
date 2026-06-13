@@ -49,6 +49,7 @@
 
 ## To-Do this Week
 
+- Fieldwork
 - 
 
 
