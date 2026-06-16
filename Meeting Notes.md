@@ -45,13 +45,16 @@
 - Did NSW2 boring sponge 
 - Labeled tubes for fieldwork
 - Cleaned oyster tanks and changed water
+- Helped pack for fieldwork days
 
 
 ## To-Do this Week
 
 - Fieldwork
-- 
+- Packing for fieldwork
 
 
 ## Questions
 
+- Ask about how to tell apart boring sponge and mud blister better
+- 
