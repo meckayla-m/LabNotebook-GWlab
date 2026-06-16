@@ -52,6 +52,7 @@
 
 - Fieldwork
 - Packing for fieldwork
+- Download all the shell photos from fieldwork
 
 
 ## Questions
