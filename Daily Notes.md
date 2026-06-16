@@ -199,3 +199,16 @@
 - [x] Feed oysters
 - [x] Take water chem for tank
 - [x] Clean oyster tanks
+
+
+# [06/15/2026]
+
+- Help pack for fieldwork day
+- Feed oyster
+
+
+## Daily To Do List
+
+- [x] Help with packing 
+- [x] Calibrate conductivity probe
+- [x] Feed oysters
