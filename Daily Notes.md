@@ -212,3 +212,14 @@
 - [x] Help with packing 
 - [x] Calibrate conductivity probe
 - [x] Feed oysters
+
+
+# [06/16/2026]
+
+- Fieldwork!!
+- Take water samples
+- Water filtering
+- Shell pictures
+
+
+## Daily To Do List
