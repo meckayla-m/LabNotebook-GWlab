@@ -58,4 +58,22 @@
 ## Questions
 
 - Ask about how to tell apart boring sponge and mud blister better
-- 
+
+
+# [06/23/2026]
+
+- Fieldwork
+- Did water filtering for fieldwork
+- Took shell pictures for fieldwork
+- Downloaded all the shell pictures
+
+
+## To Do List
+
+- Relabel all shell pictures
+- Start macro for new shell pictures
+
+
+## Questions
+
+- Ask about placement of fieldwork supplies
