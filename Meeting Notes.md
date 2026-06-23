@@ -70,6 +70,8 @@
 
 ## To Do List
 
+- Correct measurements for shell pictures
+	- Be done by Thursday
 - Relabel all shell pictures
 - Start macro for new shell pictures
 
