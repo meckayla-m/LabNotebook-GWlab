@@ -217,9 +217,55 @@
 # [06/16/2026]
 
 - Fieldwork!!
-- Take water samples
-- Water filtering
-- Shell pictures
+- Feed oysters
 
 
 ## Daily To Do List
+
+- [x] Collect water samples
+- [x] Take shell pictures
+- [x] Help Tani with bioboxes
+- [x] Do water filtering
+- [x] Feed oysters
+
+
+# [06/17/2026]
+
+- Fieldwork pt. 2
+- Feed oysters
+
+
+## Daily To Do List
+
+- [x] Take Shell pictures
+- [x] Do water filtering 
+- [x] Feed oysters
+
+
+# [06/22/2026]
+
+- Download shell pictures
+	- NSF1
+	- NSF2
+	- NSW1
+	- NSW2
+	- NSW3
+- Feed Oysters
+- Help unpack fieldwork stuff
+
+
+## Daily To Do List
+
+- [x] Download shell pictures
+	- [x] NSF1
+	- [x] NSF2
+	- [x] NSW1
+	- [x] NSW2
+	- [x] NSW3
+- [x] Feed Oysters
+- [x] Help unpack
+
+
+# [06/23/2026]
+
+- 
