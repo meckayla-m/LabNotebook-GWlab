@@ -268,4 +268,28 @@
 
 # [06/23/2026]
 
-- 
+- Feed oysters
+- Correct measurements for shell pictures
+- Start labelling new shell pictures
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Start correcting measurements for shell pictures
+- [x] Start redoing shell macro
+
+
+# [06/24/2026]
+
+- Feed oysters
+- Redo shell macro 1-15
+- Finish correcting shell picture measurements
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [ ] Redo shell macro 1-15
+- [ ] Finish correcting shell picture measurements
+- [ ] Start labelling new shell pictures
