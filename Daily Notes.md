@@ -290,6 +290,24 @@
 ## Daily To Do List
 
 - [x] Feed oysters
-- [ ] Redo shell macro 1-15
-- [ ] Finish correcting shell picture measurements
-- [ ] Start labelling new shell pictures
+- [x] Redo shell macro 1-15
+- [x] Finish correcting shell picture measurements
+- [x] Start labelling new shell pictures
+
+
+# [06/25/2026]
+
+- Feed oysters
+- Start labelling new pictures
+- Go over corrected measurements of SSF1 shells with Jade
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Start labelling new pictures
+	- [ ] NSF1
+	- [ ] NSF2
+- [x] Finish correcting SSF1 shell measurements
+- [ ] Go over measurements with Jade
+	- [ ] Add to github
