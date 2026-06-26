@@ -328,4 +328,5 @@
 	- [x] NSF2
 	- [x] NSW1
 	- [x] NSW2
+	- [x] NSW3
 - [x] Finish adding shell measurements to csv
