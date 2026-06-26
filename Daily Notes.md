@@ -306,8 +306,26 @@
 
 - [x] Feed oysters
 - [x] Start labelling new pictures
-	- [ ] NSF1
-	- [ ] NSF2
+	- [x] NSF1
 - [x] Finish correcting SSF1 shell measurements
-- [ ] Go over measurements with Jade
-	- [ ] Add to github
+- [x] Go over measurements with Jade
+	- [x] Add to github
+	- [x] Add measurements to csv
+
+
+# [06/26/2026]
+
+- Feed oysters
+- Keep labelling new pictures
+- Continue adding measurements to shell csv
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Keep labelling new pictures
+	- [x] NSF1
+	- [x] NSF2
+	- [x] NSW1
+	- [x] NSW2
+- [x] Finish adding shell measurements to csv
