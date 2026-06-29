@@ -330,3 +330,19 @@
 	- [x] NSW2
 	- [x] NSW3
 - [x] Finish adding shell measurements to csv
+
+
+# [06/29/2026]
+
+- Oyster husbandry
+- Finish labelling pictures
+- Add measurements to csv
+
+
+## Daily To Do List
+
+- [x] Oyster husbandry
+	- [x] Fed oysters
+	- [x] checked pH, salinity, and RDO
+- [x] Finish labelling pictures
+- [x] Add measurements to csv
