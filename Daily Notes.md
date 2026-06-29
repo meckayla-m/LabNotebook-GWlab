@@ -323,7 +323,7 @@
 ## Daily To Do List
 
 - [x] Feed oysters
-- [x] Keep labelling new pictures
+- [x] Finish labelling new pictures
 	- [x] NSF1
 	- [x] NSF2
 	- [x] NSW1
@@ -344,5 +344,7 @@
 - [x] Oyster husbandry
 	- [x] Fed oysters
 	- [x] checked pH, salinity, and RDO
-- [x] Finish labelling pictures
+- [x] Start macros
+	- [x] Download shell picture
+	- [ ] NSF1
 - [x] Add measurements to csv
