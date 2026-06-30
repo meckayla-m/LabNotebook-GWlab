@@ -348,3 +348,17 @@
 	- [x] Download shell picture
 	- [x] NSF1
 - [x] Add measurements to csv
+
+
+# [06/30/2026]
+
+- Feed oyster
+- Continue NSF1 shell macro
+- Add SSF1 shell measurements to github
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Continue NSF1 shell macro
+- [x] Add SSF1 shell measurements to github
