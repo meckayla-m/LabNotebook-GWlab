@@ -346,5 +346,5 @@
 	- [x] checked pH, salinity, and RDO
 - [x] Start macros
 	- [x] Download shell picture
-	- [ ] NSF1
+	- [x] NSF1
 - [x] Add measurements to csv

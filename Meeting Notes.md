@@ -79,3 +79,21 @@
 ## Questions
 
 - Ask about placement of fieldwork supplies
+
+
+
+# [06/30/2026]
+
+- Finished labelling shell pictures
+- Corrected shell picture measurements for SSF1
+- Started macro for NSF1 shell pictures
+- Learned to autoclave
+
+
+## To Do List
+
+- Start NSF2 shell macro
+- Finish NSF1 shell macro
+	- adding on github
+	- correcting mesurements
+- 
