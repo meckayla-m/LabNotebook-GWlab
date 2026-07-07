@@ -96,4 +96,18 @@
 - Finish NSF1 shell macro
 	- adding on github
 	- correcting mesurements
-- 
+
+
+
+# [07/07/2026]
+
+- Finished NSF1 shell macro
+- Corrected NSF1 shell 
+- Started NSF2 shell macro
+
+
+## To Do List
+
+- Finish NSF2 shell macro
+- Finish correcting NSF2 shell measurements
+- Add measurements to csv file
