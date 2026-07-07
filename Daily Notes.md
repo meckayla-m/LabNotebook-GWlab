@@ -362,3 +362,72 @@
 - [x] Feed oysters
 - [x] Continue NSF1 shell macro
 - [x] Add SSF1 shell measurements to github
+
+
+# [07/01/2026]
+
+- Feed oyster
+- Continue NSF1 shell macro
+
+
+## Daily To Do List
+
+- [x] Feed oyster
+- [x] Continue NSF1 shell macro
+- [x] Learn to autoclave
+
+
+# [07/02/2026]
+
+- Feed oyster
+- Continue NSF1 shell macro
+- Do some autoclaving
+
+
+## Daily To Do List
+
+- [x] Feed oyster
+- [x] Continue NSF1 shell macro
+- [x] Autoclave some glassware
+
+
+# [07/03/2026]
+
+- Finish NSF1 shell macro
+- Oyster husbandry
+
+
+## Daily To Do List
+
+- [x] Finish NSF1 shell macro
+- [x] Fix measurements for shell
+- [x] Oyster husbandry
+
+
+
+# [07/06/2026]
+
+- Fix shell measurements
+- Feed the oysters
+- Add to csv
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Finish fixing shell measurements
+- [x] Do some autoclaving
+
+
+# [07/07/2026]
+
+- Feed oysters
+- Add shell measurements to csv
+- Start NSF2 shell macro
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [ ] Add shell measurements to csv
+- [ ] Start NSF2 shell macro
