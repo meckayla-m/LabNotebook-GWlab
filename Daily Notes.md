@@ -429,5 +429,20 @@
 ## Daily To Do List
 
 - [x] Feed oysters
-- [ ] Add shell measurements to csv
-- [ ] Start NSF2 shell macro
+- [x] Add shell measurements to csv
+- [x] Start NSF2 shell macro
+
+
+
+# [07/08/2026]
+
+- Feed oysters
+- Push shell measurements to csv
+- Start NSF2 shell macro
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Push shell measurements to csv
+- [x] Start NSF2 shell macro
