@@ -459,7 +459,23 @@
 
 - [x] Feed oysters
 - [x] Finish NSF2 shell macro
-- [ ] Start correcting NSF2 shell measurements
+- [x] Start correcting NSF2 shell measurements
+- [x] Add measurements to csv
 
 
 # [07/10/2026]
+
+- Push measurements to csv file
+- Feed oysters
+- Start NSW1 shell macro
+
+
+
+## Daily To Do List
+
+- [ ] Push measurements to csv file
+	- [ ] Jade reviewed and accepted
+- [ ] Feed oysters
+- [ ] Start NSW1 shell macro
+	- [ ] download photos
+	- [ ] separate into half 
