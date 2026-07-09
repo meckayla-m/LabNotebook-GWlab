@@ -446,3 +446,20 @@
 - [x] Feed oysters
 - [x] Push shell measurements to csv
 - [x] Start NSF2 shell macro
+
+
+# [07/09/2026]
+
+- Feed Oysters
+- Finish NSF2 shell macro
+- Start correcting NSF2 shell measurements
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Finish NSF2 shell macro
+- [ ] Start correcting NSF2 shell measurements
+
+
+# [07/10/2026]
