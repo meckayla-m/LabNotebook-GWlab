@@ -473,9 +473,9 @@
 
 ## Daily To Do List
 
-- [ ] Push measurements to csv file
-	- [ ] Jade reviewed and accepted
-- [ ] Feed oysters
-- [ ] Start NSW1 shell macro
-	- [ ] download photos
-	- [ ] separate into half 
+- [x] Push measurements to csv file
+	- [x] Jade reviewed and accepted
+- [x] Feed oysters
+- [x] Start NSW1 shell macro
+	- [x] download photos
+	- [x] separate into half 
