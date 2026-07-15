@@ -479,3 +479,45 @@
 - [x] Start NSW1 shell macro
 	- [x] download photos
 	- [x] separate into half 
+
+
+
+# [07/13/2026]
+
+- Continue NSW1 shell macro
+
+
+## Daily To Do List
+
+ - [x] Finish 1-17 NSW1 shell macro
+ - [x] Start 18-34
+
+
+
+# [07/14/2026]
+
+- Finish NSW1 shell macro
+- Feed oysters
+- Oyster husbandry
+
+
+## Daily To Do List
+
+- [x] Finish NSW1 shell macro
+- [x] Do water chemistry
+- [x] Feed oysters
+
+
+
+# [07/15/2026] 
+
+- Feed oysters
+- Start correcting NSW1 shell measurements
+- Rearrange personal file before pasting into csv file
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Add all TIF files from each June 2026 shell macro to Google Drive
+- [x] Start correcting NSW1 shell measurements
