@@ -521,3 +521,32 @@
 - [x] Feed oysters
 - [x] Add all TIF files from each June 2026 shell macro to Google Drive
 - [x] Start correcting NSW1 shell measurements
+
+
+
+# [07/16/2026]
+
+- Clean tank
+- Feed oysters
+- Finish correcting measurements and add into csv file
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Clean tank
+- [x] Finish correcting measurements 
+
+
+# [07/17/2026]
+
+- Rearrange file 
+- Put shell measurements into csv
+- Start NSW2 shell macro
+
+
+## Daily To Do List
+
+- [x] Rearrange file
+- [ ] Put shell measurements into csv
+- [ ] Start NSW2 shell macro
