@@ -548,5 +548,5 @@
 ## Daily To Do List
 
 - [x] Rearrange file
-- [ ] Put shell measurements into csv
-- [ ] Start NSW2 shell macro
+- [x] Put shell measurements into csv
+- [x] Start NSW2 shell macro
