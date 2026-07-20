@@ -128,3 +128,11 @@
 - Add NSW1 shell data to PIC csv file
 - Start NSW2 shell macro
 - Do some RNA later tubes
+
+
+# [07/20/2026]
+
+- Finished NSW1 shell macro
+- Finished correcting NSW1 shell measurements
+- Added NSW1 shell data to PIC csv file
+- Started NSW2 shell macro
