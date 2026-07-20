@@ -549,4 +549,18 @@
 
 - [x] Rearrange file
 - [x] Put shell measurements into csv
-- [x] Start NSW2 shell macro
+- [x] Start NSW2 shell macro 1-20
+
+
+
+# [07/20/2026]
+
+- Finish NSW2 shell macro 1-20
+- Start NSW2 shell macro 21-40
+
+
+
+## Daily To Do List
+
+- [ ] Finish NSW2 shell macro 1-20
+- [ ] Start NSW2 shell macro 21-40
