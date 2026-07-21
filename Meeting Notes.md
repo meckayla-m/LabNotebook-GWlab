@@ -142,4 +142,5 @@
 
 - Retake NSW1.8 ext and NSW3 21? ext
 - Make some RNA later tubes for september
-- 
+- Finish up NSW2 shell macro
+- Start correcting NSW2 shell measurements
