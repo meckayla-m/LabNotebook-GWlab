@@ -136,3 +136,10 @@
 - Finished correcting NSW1 shell measurements
 - Added NSW1 shell data to PIC csv file
 - Started NSW2 shell macro
+
+
+## To Do List
+
+- Retake NSW1.8 ext and NSW3 21? ext
+- Make some RNA later tubes for september
+- 
