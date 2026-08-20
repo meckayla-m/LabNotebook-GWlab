@@ -568,13 +568,32 @@
 
 # [08/17/2026]
 
-- Finish NSW2 shell macro 11-20
-- Feed oysters
-- Start NSW2 shell macro 21-40
+- Redo NSW2 shell macro 1-40
 
 ## Daily To Do List
 
+- [x] Start NSW2 shell macro 1-10
 - [x] Finish NSW2 shell macro 1-10
-- [ ] Finish NSW2 shell macro 11-20
+
+
+# [08/18/2026]
+
+- Start NSW2 shell macro 11-20
+- Finish NSW2 shell macro 11-20
+
+## Daily To Do List
+
+- [x] Start NSW2 shell macro 21-30
+- [x] Start NSW2 shell macro 21-30
+
+
+# [08/19/2026]
+
+- Start NSW2 shell macro 31-40
+- Finish NSW2 shell macro 31-40
+
+
+## Daily To Do List
+
+- [x] Start NSW2 shell macro 31-40
 - [x] Feed oysters
-- [ ] Start NSW2 shell macro 21-40
