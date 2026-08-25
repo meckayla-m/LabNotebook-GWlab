@@ -597,3 +597,56 @@
 
 - [x] Start NSW2 shell macro 31-40
 - [x] Feed oysters
+
+
+# [08/20/2026]
+
+- Help out with RFTM processing 
+- Feed the oysters
+
+
+## Daily To Do List
+
+- [x] RFTM processing
+- [x] Feed oysters
+
+
+# [08/21/2026]
+
+- Feed oysters
+- RFTM processing
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] RFTM processing
+
+
+# [08/24/2026]
+
+- Feed oysters
+- Oyster husbandry
+- Finish NSW2 shell macro 31-40
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Troubleshoot Orion 
+	- [x] call Thermofisher
+- [x] Continue NSW2 shell macro 31-40
+
+
+# [08/25/2026]
+
+- Feed oysters
+- Label tubes
+- Cut labels
+- Continue NSW2 shell macro 31-40
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Label tubes
+- [x] Cut labels 
+- [x] Continue NSW2 shell macro 31-40
