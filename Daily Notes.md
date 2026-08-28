@@ -584,7 +584,7 @@
 ## Daily To Do List
 
 - [x] Start NSW2 shell macro 21-30
-- [x] Start NSW2 shell macro 21-30
+- [x] Finish NSW2 shell macro 21-30
 
 
 # [08/19/2026]
@@ -650,3 +650,45 @@
 - [x] Label tubes
 - [x] Cut labels 
 - [x] Continue NSW2 shell macro 31-40
+
+
+# [08/26/2026]
+
+- Feed oysters
+- Process NSF1 oysters
+- Process NSR1 oysters
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Process NSF1 oysters
+- [x] Process NSR1 oysters
+
+
+# [08/27/2026]
+
+- Feed oysters
+- Continue with NSW2 shell macro 31-40
+- Clean out dead crab
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Continue NSW2 shell macro
+- [x] Clean out dead crab
+
+
+# [08/28/2026]
+
+- Feed oysters 
+- take water chem
+- Finish NSW2 shell macro
+
+
+## Daily To Do List 
+
+- [x] Feed oysters
+- [x] Take water chem
+- [x] Finish NSW2 shell macro
