@@ -141,6 +141,21 @@
 ## To Do List
 
 - Retake NSW1.8 ext and NSW3 21? ext
-- Make some RNA later tubes for september
+- Make some RNA later tubes for September
 - Finish up NSW2 shell macro
 - Start correcting NSW2 shell measurements
+
+
+# [08/31/2026]
+
+- Helped with bio box fieldwork
+- Helped process NSF1 and NSR1 oysters
+- Retook shell pictures
+- Helped Anthony with processing RFTM
+
+
+## To Do List
+
+- Finish NSW2 shell macro
+- Start correcting NSW2 shell measurements
+- Make RNA later tubes for September fieldwork
