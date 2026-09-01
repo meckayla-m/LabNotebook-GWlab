@@ -691,4 +691,18 @@
 
 - [x] Feed oysters
 - [x] Take water chem
-- [x] Finish NSW2 shell macro
+- [x] FInish NSW2 shell macro 31-36
+
+
+# [08/31/2026]
+
+- Feed oysters
+- Take salinity
+- Continue NSW2 shell macro 37-40
+
+
+## Daily To Do List
+
+- [x] Feed oysters
+- [x] Take salinity
+- [x] Continue 37-40
