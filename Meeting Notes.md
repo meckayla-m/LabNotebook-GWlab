@@ -159,4 +159,4 @@
 - Focus more on shell picture
 - Communicate with Ava on shell pictures
 - Start correcting NSW2 shell measurements
-- Feed oystsers two tubs of algae
+- Feed oysters two tubs of algae
