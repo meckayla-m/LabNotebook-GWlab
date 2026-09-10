@@ -156,6 +156,7 @@
 
 ## To Do List
 
-- Finish NSW2 shell macro
+- Focus more on shell picture
+- Communicate with Ava on shell pictures
 - Start correcting NSW2 shell measurements
-- Make RNA later tubes for September fieldwork
+- Feed oystsers two tubs of algae
