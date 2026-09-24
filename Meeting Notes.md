@@ -160,3 +160,9 @@
 - Communicate with Ava on shell pictures
 - Start correcting NSW2 shell measurements
 - Feed oysters two tubs of algae
+
+
+# [09/24/2026]
+
+- Helped Tani move the oyster cages and bags to basement
+- Started on NSF1 shell picture labelling
