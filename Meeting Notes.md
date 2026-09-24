@@ -156,7 +156,7 @@
 
 ## To Do List
 
-- Focus more on shell picture
+- Focus more on shell picture labelling
 - Communicate with Ava on shell pictures
 - Start correcting NSW2 shell measurements
 - Feed oysters two tubs of algae
