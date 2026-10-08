@@ -166,3 +166,16 @@
 
 - Helped Tani move the oyster cages and bags to basement
 - Started on NSF1 shell picture labelling
+
+
+# [10/8/2026]
+
+- Labeled NSF1 - NSW1 shell pictures
+- Salinity is growing in the tanks
+
+
+## To Do List
+
+- Finished NSW2 - NSW3 shell picture labelling
+- Clean tanks on Friday
+- Retake some shell pictures? for easier macro process
