@@ -179,3 +179,5 @@
 - Finished NSW2 - NSW3 shell picture labelling
 - Clean tanks on Friday
 - Retake some shell pictures? for easier macro process
+	- When retaking picture for the bigger shells tilt them more in to fit in frame
+	- 
